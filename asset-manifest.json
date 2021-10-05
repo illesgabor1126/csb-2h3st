@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://illesgabor1126.github.io/csb-2h3st/static/css/main.57e35a01.chunk.css",
+    "main.js": "https://illesgabor1126.github.io/csb-2h3st/static/js/main.420798b1.chunk.js",
+    "main.js.map": "https://illesgabor1126.github.io/csb-2h3st/static/js/main.420798b1.chunk.js.map",
+    "runtime-main.js": "https://illesgabor1126.github.io/csb-2h3st/static/js/runtime-main.d3309f76.js",
+    "runtime-main.js.map": "https://illesgabor1126.github.io/csb-2h3st/static/js/runtime-main.d3309f76.js.map",
+    "static/js/2.5d74dfca.chunk.js": "https://illesgabor1126.github.io/csb-2h3st/static/js/2.5d74dfca.chunk.js",
+    "static/js/2.5d74dfca.chunk.js.map": "https://illesgabor1126.github.io/csb-2h3st/static/js/2.5d74dfca.chunk.js.map",
+    "index.html": "https://illesgabor1126.github.io/csb-2h3st/index.html",
+    "static/css/main.57e35a01.chunk.css.map": "https://illesgabor1126.github.io/csb-2h3st/static/css/main.57e35a01.chunk.css.map",
+    "static/js/2.5d74dfca.chunk.js.LICENSE.txt": "https://illesgabor1126.github.io/csb-2h3st/static/js/2.5d74dfca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3309f76.js",
+    "static/js/2.5d74dfca.chunk.js",
+    "static/css/main.57e35a01.chunk.css",
+    "static/js/main.420798b1.chunk.js"
+  ]
+}
